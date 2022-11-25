@@ -1,0 +1,60 @@
+commit 39240d57aed0b6ef0eb2f2f00ee76b4623f332ac
+Merge: 9d699ac e5128b4
+Author: oscarmerino2 <117472084+oscarmerino2@users.noreply.github.com>
+Date:   Fri Nov 25 11:54:57 2022 +0100
+
+    Merge pull request #2 from oscarmerino2/rama-B
+    
+    Solicitud de merge rama-B
+
+commit e5128b4f93f5f41e0c1f3ff14619e4150fb34fa8
+Merge: 9c6fc73 9d699ac
+Author: oscarmerino2 <117472084+oscarmerino2@users.noreply.github.com>
+Date:   Fri Nov 25 11:47:29 2022 +0100
+
+    Merge branch 'main' into rama-B
+
+commit 9d699ac5445929ec71737ad63f03d3a7dcf67ef2
+Author: oscarmerino2 <oscar.merino2@estudiant.uib.cat>
+Date:   Wed Nov 23 23:11:18 2022 +0100
+
+    añadiendo segunda frase
+
+commit 9c6fc73b03fa9bebe9fd11797e7822bdd3818524
+Author: Brenda Estrada <bren.estrada94@gmail.com>
+Date:   Wed Nov 23 13:17:18 2022 +0100
+
+    random seed y modificación de suma
+
+commit 1c5edb38bdef62bd90b622b1b6156a75da7d886e
+Author: Brenda Estrada <bren.estrada94@gmail.com>
+Date:   Wed Nov 23 12:55:32 2022 +0100
+
+    Nueva linea de B
+
+commit f1f3b2b2151415b0d607da725ac4f0b0ab521cfa
+Author: oscarmerino2 <oscar.merino2@estudiant.uib.cat>
+Date:   Sun Nov 20 16:41:18 2022 +0100
+
+    añadiendo suma py
+
+commit b7220470b36866b0fb650fcfd9f314c0f1880286
+Merge: 0d924f0 5058e6a
+Author: oscarmerino2 <117472084+oscarmerino2@users.noreply.github.com>
+Date:   Sun Nov 20 12:02:40 2022 +0100
+
+    Merge pull request #1 from oscarmerino2/newBranch
+    
+    Nuevo Readme añadido en la rama newBranch
+
+commit 5058e6ad9e51f18ed55ae97012832cbb49e68b48
+Author: oscarmerino2 <oscar.merino2@estudiant.uib.cat>
+Date:   Sun Nov 20 11:59:40 2022 +0100
+
+    Nuevo Readme añadido en la rama newBranch
+
+commit 0d924f008903323764f45f0d432a02fbc507a81f
+Author: oscarmerino2 <oscar.merino2@estudiant.uib.cat>
+Date:   Sun Nov 20 11:52:29 2022 +0100
+
+    este es el primer commit
